@@ -1,0 +1,519 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+BITSET_ALLOC	uma/bitset.h	/^#define BITSET_ALLOC(/;"	d
+BITSET_DEFINE	uma/_bitset.h	/^#define	BITSET_DEFINE(/;"	d
+BITSET_DEFINE_VAR	uma/_bitset.h	/^#define BITSET_DEFINE_VAR(/;"	d
+BITSET_FSET	uma/bitset.h	/^#define	BITSET_FSET(/;"	d
+BITSET_T_INITIALIZER	uma/bitset.h	/^#define	BITSET_T_INITIALIZER(/;"	d
+BIT_AND	uma/bitset.h	/^#define	BIT_AND(/;"	d
+BIT_AND2	uma/bitset.h	/^#define	BIT_AND2(/;"	d
+BIT_AND_ATOMIC	uma/bitset.h	/^#define	BIT_AND_ATOMIC(/;"	d
+BIT_CLR	uma/bitset.h	/^#define	BIT_CLR(/;"	d
+BIT_CLR_ATOMIC	uma/bitset.h	/^#define	BIT_CLR_ATOMIC(/;"	d
+BIT_CMP	uma/bitset.h	/^#define	BIT_CMP(/;"	d
+BIT_COPY	uma/bitset.h	/^#define	BIT_COPY(/;"	d
+BIT_COPY_STORE_REL	uma/bitset.h	/^#define	BIT_COPY_STORE_REL(/;"	d
+BIT_COUNT	uma/bitset.h	/^#define	BIT_COUNT(/;"	d
+BIT_EMPTY	uma/bitset.h	/^#define	BIT_EMPTY(/;"	d
+BIT_FFS	uma/bitset.h	/^#define	BIT_FFS(/;"	d
+BIT_FILL	uma/bitset.h	/^#define	BIT_FILL(/;"	d
+BIT_FLS	uma/bitset.h	/^#define	BIT_FLS(/;"	d
+BIT_ISFULLSET	uma/bitset.h	/^#define	BIT_ISFULLSET(/;"	d
+BIT_ISSET	uma/bitset.h	/^#define	BIT_ISSET(/;"	d
+BIT_NAND	uma/bitset.h	/^#define	BIT_NAND(/;"	d
+BIT_NAND2	uma/bitset.h	/^#define	BIT_NAND2(/;"	d
+BIT_OR	uma/bitset.h	/^#define	BIT_OR(/;"	d
+BIT_OR2	uma/bitset.h	/^#define	BIT_OR2(/;"	d
+BIT_OR_ATOMIC	uma/bitset.h	/^#define	BIT_OR_ATOMIC(/;"	d
+BIT_OVERLAP	uma/bitset.h	/^#define	BIT_OVERLAP(/;"	d
+BIT_SET	uma/bitset.h	/^#define	BIT_SET(/;"	d
+BIT_SETOF	uma/bitset.h	/^#define	BIT_SETOF(/;"	d
+BIT_SET_ATOMIC	uma/bitset.h	/^#define	BIT_SET_ATOMIC(/;"	d
+BIT_SET_ATOMIC_ACQ	uma/bitset.h	/^#define	BIT_SET_ATOMIC_ACQ(/;"	d
+BIT_SUBSET	uma/bitset.h	/^#define	BIT_SUBSET(/;"	d
+BIT_XOR	uma/bitset.h	/^#define	BIT_XOR(/;"	d
+BIT_XOR2	uma/bitset.h	/^#define	BIT_XOR2(/;"	d
+BIT_ZERO	uma/bitset.h	/^#define	BIT_ZERO(/;"	d
+BUCKET_MAX	uma_core.c	/^#define	BUCKET_MAX	/;"	d	file:
+BUCKET_SIZE	uma_core.c	/^#define	BUCKET_SIZE(/;"	d	file:
+CACHE_LINE_SIZE	uma/cdefs.h	/^#define	CACHE_LINE_SIZE	/;"	d
+CACHE_LOCK	uma/uma_int.h	/^#define CACHE_LOCK(/;"	d
+CACHE_UNLOCK	uma/uma_int.h	/^#define CACHE_UNLOCK(/;"	d
+CPU_FOREACH	uma/smp.h	/^#define CPU_FOREACH(/;"	d
+INVALID_PTHREAD	mtx.c	/^#define INVALID_PTHREAD /;"	d	file:
+INVALID_PTHREAD	sx.c	/^#define INVALID_PTHREAD /;"	d	file:
+KASSERT	uma/systm.h	/^#define KASSERT(/;"	d
+KEG_LOCK	uma/uma_int.h	/^#define	KEG_LOCK(/;"	d
+KEG_LOCK_FINI	uma/uma_int.h	/^#define	KEG_LOCK_FINI(/;"	d
+KEG_LOCK_INIT	uma/uma_int.h	/^#define	KEG_LOCK_INIT(/;"	d
+KEG_UNLOCK	uma/uma_int.h	/^#define	KEG_UNLOCK(/;"	d
+LIST_FOREACH_SAFE	uma/queue.h	/^#define	LIST_FOREACH_SAFE(/;"	d
+MAXCPU	uma/smp.h	/^#define MAXCPU /;"	d
+MA_NOTOWNED	uma/mtx.h	/^#define MA_NOTOWNED	/;"	d
+MA_NOTRECURSED	uma/mtx.h	/^#define MA_NOTRECURSED	/;"	d
+MA_OWNED	uma/mtx.h	/^#define MA_OWNED	/;"	d
+MA_RECURSED	uma/mtx.h	/^#define MA_RECURSED	/;"	d
+MPASS	uma/systm.h	/^#define MPASS(/;"	d
+MTX_DEBUG	uma/mtx.h	/^#define MTX_DEBUG$/;"	d
+MTX_DEF	uma/mtx.h	/^#define	MTX_DEF	/;"	d
+MTX_DUPOK	uma/mtx.h	/^#define	MTX_DUPOK	/;"	d
+MTX_NEW	uma/mtx.h	/^#define	MTX_NEW	/;"	d
+MTX_NOPROFILE	uma/mtx.h	/^#define MTX_NOPROFILE /;"	d
+MTX_NOWITNESS	uma/mtx.h	/^#define	MTX_NOWITNESS	/;"	d
+MTX_QUIET	uma/mtx.h	/^#define	MTX_QUIET	/;"	d
+MTX_RECURSE	uma/mtx.h	/^#define MTX_RECURSE	/;"	d
+MTX_SPIN	uma/mtx.h	/^#define MTX_SPIN	/;"	d
+M_BESTFIT	uma/malloc.h	/^#define	M_BESTFIT	/;"	d
+M_FIRSTFIT	uma/malloc.h	/^#define	M_FIRSTFIT	/;"	d
+M_NODUMP	uma/malloc.h	/^#define	M_NODUMP	/;"	d
+M_NOVM	uma/malloc.h	/^#define	M_NOVM	/;"	d
+M_NOWAIT	uma/malloc.h	/^#define	M_NOWAIT	/;"	d
+M_USE_RESERVE	uma/malloc.h	/^#define	M_USE_RESERVE	/;"	d
+M_WAITOK	uma/malloc.h	/^#define	M_WAITOK	/;"	d
+M_ZERO	uma/malloc.h	/^#define	M_ZERO	/;"	d
+SA_XLOCKED	uma/sx.h	/^#define SA_XLOCKED /;"	d
+SIZE_2MB	uma_core.c	/^#define SIZE_2MB /;"	d	file:
+SIZE_64KB	uma_core.c	/^#define SIZE_64KB /;"	d	file:
+SKIP_DTOR	uma_core.c	/^enum zfreeskip { SKIP_NONE = 0, SKIP_DTOR, SKIP_FINI };$/;"	e	enum:zfreeskip	file:
+SKIP_FINI	uma_core.c	/^enum zfreeskip { SKIP_NONE = 0, SKIP_DTOR, SKIP_FINI };$/;"	e	enum:zfreeskip	file:
+SKIP_NONE	uma_core.c	/^enum zfreeskip { SKIP_NONE = 0, SKIP_DTOR, SKIP_FINI };$/;"	e	enum:zfreeskip	file:
+SLAB_SETSIZE	uma/uma_int.h	/^#define	SLAB_SETSIZE	/;"	d
+TASK_INIT	uma/task.h	/^#define TASK_INIT(/;"	d
+UMA_ALIGN	uma/uma_int.h	/^	volatile u_long	uz_allocs UMA_ALIGN; \/* Total number of allocations *\/$/;"	m	struct:uma_zone	typeref:typename:volatile u_long uz_allocs
+UMA_ALIGN	uma/uma_int.h	/^#define UMA_ALIGN	/;"	d
+UMA_ALIGN	uma/uma_int.h	/^#define UMA_ALIGN$/;"	d
+UMA_ALIGN	uma/uma_int.h	/^} UMA_ALIGN;$/;"	v	typeref:struct:uma_cache
+UMA_ALIGNOF	uma/uma.h	/^#define	UMA_ALIGNOF(/;"	d
+UMA_ALIGN_CACHE	uma/uma.h	/^#define UMA_ALIGN_CACHE	/;"	d
+UMA_ALIGN_CHAR	uma/uma.h	/^#define UMA_ALIGN_CHAR	/;"	d
+UMA_ALIGN_INT	uma/uma.h	/^#define UMA_ALIGN_INT	/;"	d
+UMA_ALIGN_LONG	uma/uma.h	/^#define UMA_ALIGN_LONG	/;"	d
+UMA_ALIGN_PTR	uma/uma.h	/^#define UMA_ALIGN_PTR	/;"	d
+UMA_ALIGN_SHORT	uma/uma.h	/^#define UMA_ALIGN_SHORT	/;"	d
+UMA_ATOMIC_H	uma/atomic.h	/^#define UMA_ATOMIC_H$/;"	d
+UMA_BOOT_PAGES	uma/uma_int.h	/^#define UMA_BOOT_PAGES	/;"	d
+UMA_BOOT_PAGES_ZONES	uma/uma_int.h	/^#define UMA_BOOT_PAGES_ZONES	/;"	d
+UMA_CDEFS_H	uma/cdefs.h	/^#define UMA_CDEFS_H$/;"	d
+UMA_CPUFUNC_H	uma/cpufunc.h	/^#define UMA_CPUFUNC_H$/;"	d
+UMA_HASH	uma/uma_int.h	/^#define UMA_HASH(/;"	d
+UMA_HASH_INSERT	uma/uma_int.h	/^#define UMA_HASH_INSERT(/;"	d
+UMA_HASH_REMOVE	uma/uma_int.h	/^#define UMA_HASH_REMOVE(/;"	d
+UMA_HASH_SIZE_INIT	uma/uma_int.h	/^#define UMA_HASH_SIZE_INIT	/;"	d
+UMA_MALLOC_H	uma/malloc.h	/^#define UMA_MALLOC_H$/;"	d
+UMA_MAX_WASTE	uma/uma_int.h	/^#define UMA_MAX_WASTE	/;"	d
+UMA_MUTEX_H	uma/mtx.h	/^#define	UMA_MUTEX_H$/;"	d
+UMA_PARAMS_H	uma/param.h	/^#define UMA_PARAMS_H$/;"	d
+UMA_PCPU_H	uma/pcpu.h	/^#define UMA_PCPU_H$/;"	d
+UMA_RWLOCK_H	uma/rwlock.h	/^#define UMA_RWLOCK_H$/;"	d
+UMA_SHUTDOWN	uma_core.c	/^#define	UMA_SHUTDOWN	/;"	d	file:
+UMA_SLAB_BOOT	uma/uma.h	/^#define UMA_SLAB_BOOT	/;"	d
+UMA_SLAB_KERNEL	uma/uma.h	/^#define UMA_SLAB_KERNEL	/;"	d
+UMA_SLAB_KMEM	uma/uma.h	/^#define UMA_SLAB_KMEM	/;"	d
+UMA_SLAB_MALLOC	uma/uma.h	/^#define UMA_SLAB_MALLOC	/;"	d
+UMA_SLAB_MASK	uma/uma_int.h	/^#define UMA_SLAB_MASK	/;"	d
+UMA_SLAB_OFFP	uma/uma.h	/^#define UMA_SLAB_OFFP	/;"	d
+UMA_SLAB_PRIV	uma/uma.h	/^#define UMA_SLAB_PRIV	/;"	d
+UMA_SLAB_SHIFT	uma/uma_int.h	/^#define UMA_SLAB_SHIFT	/;"	d
+UMA_SLAB_SIZE	uma/uma_int.h	/^#define UMA_SLAB_SIZE	/;"	d
+UMA_SMALLEST_UNIT	uma/uma.h	/^#define UMA_SMALLEST_UNIT /;"	d
+UMA_SMP_H	uma/smp.h	/^#define UMA_SMP_H$/;"	d
+UMA_STARTUP	uma_core.c	/^#define	UMA_STARTUP	/;"	d	file:
+UMA_STARTUP2	uma_core.c	/^#define	UMA_STARTUP2	/;"	d	file:
+UMA_STREAM_VERSION	uma/uma.h	/^#define	UMA_STREAM_VERSION	/;"	d
+UMA_SX_H	uma/sx.h	/^#define UMA_SX_H$/;"	d
+UMA_SYSTM_H	uma/systm.h	/^#define UMA_SYSTM_H$/;"	d
+UMA_TASK_H	uma/task.h	/^#define UMA_TASK_H$/;"	d
+UMA_TIMEOUT	uma_core.c	/^#define	UMA_TIMEOUT	/;"	d	file:
+UMA_TIME_H	uma/time.h	/^#define UMA_TIME_H$/;"	d
+UMA_TYPES_H	uma/types.h	/^#define UMA_TYPES_H$/;"	d
+UMA_ZFLAG_BUCKET	uma/uma_int.h	/^#define	UMA_ZFLAG_BUCKET	/;"	d
+UMA_ZFLAG_CACHEONLY	uma/uma_int.h	/^#define UMA_ZFLAG_CACHEONLY	/;"	d
+UMA_ZFLAG_DRAINING	uma/uma_int.h	/^#define	UMA_ZFLAG_DRAINING	/;"	d
+UMA_ZFLAG_FULL	uma/uma_int.h	/^#define UMA_ZFLAG_FULL	/;"	d
+UMA_ZFLAG_INHERIT	uma/uma_int.h	/^#define	UMA_ZFLAG_INHERIT	/;"	d
+UMA_ZFLAG_INTERNAL	uma/uma_int.h	/^#define UMA_ZFLAG_INTERNAL	/;"	d
+UMA_ZFLAG_MULTI	uma/uma_int.h	/^#define	UMA_ZFLAG_MULTI	/;"	d
+UMA_ZONE_CACHESPREAD	uma/uma.h	/^#define	UMA_ZONE_CACHESPREAD	/;"	d
+UMA_ZONE_HASH	uma/uma.h	/^#define	UMA_ZONE_HASH	/;"	d
+UMA_ZONE_INHERIT	uma/uma.h	/^#define	UMA_ZONE_INHERIT	/;"	d
+UMA_ZONE_LARGE_KEG	uma/uma.h	/^#define	UMA_ZONE_LARGE_KEG	/;"	d
+UMA_ZONE_MALLOC	uma/uma.h	/^#define UMA_ZONE_MALLOC	/;"	d
+UMA_ZONE_MAXBUCKET	uma/uma.h	/^#define	UMA_ZONE_MAXBUCKET	/;"	d
+UMA_ZONE_MTXCLASS	uma/uma.h	/^#define UMA_ZONE_MTXCLASS	/;"	d
+UMA_ZONE_NOBUCKET	uma/uma.h	/^#define	UMA_ZONE_NOBUCKET	/;"	d
+UMA_ZONE_NODUMP	uma/uma.h	/^#define	UMA_ZONE_NODUMP	/;"	d
+UMA_ZONE_NOFREE	uma/uma.h	/^#define UMA_ZONE_NOFREE	/;"	d
+UMA_ZONE_OFFPAGE	uma/uma.h	/^#define UMA_ZONE_OFFPAGE	/;"	d
+UMA_ZONE_PAGEABLE	uma/uma.h	/^#define UMA_ZONE_PAGEABLE	/;"	d
+UMA_ZONE_PCPU	uma/uma.h	/^#define	UMA_ZONE_PCPU	/;"	d
+UMA_ZONE_SECONDARY	uma/uma.h	/^#define	UMA_ZONE_SECONDARY	/;"	d
+UMA_ZONE_STATIC	uma/uma.h	/^#define UMA_ZONE_STATIC	/;"	d
+UMA_ZONE_VM	uma/uma.h	/^#define	UMA_ZONE_VM	/;"	d
+UMA_ZONE_VTOSLAB	uma/uma.h	/^#define	UMA_ZONE_VTOSLAB	/;"	d
+UMA_ZONE_ZINIT	uma/uma.h	/^#define UMA_ZONE_ZINIT	/;"	d
+UTH_MAX_NAME	uma/uma.h	/^#define	UTH_MAX_NAME	/;"	d
+UTH_ZONE_SECONDARY	uma/uma.h	/^#define	UTH_ZONE_SECONDARY	/;"	d
+VM_UMA_INT_H	uma/uma_int.h	/^#define VM_UMA_INT_H$/;"	d
+ZONE_LOCK	uma/uma_int.h	/^#define	ZONE_LOCK(/;"	d
+ZONE_LOCK_FINI	uma/uma_int.h	/^#define	ZONE_LOCK_FINI(/;"	d
+ZONE_LOCK_INIT	uma/uma_int.h	/^#define	ZONE_LOCK_INIT(/;"	d
+ZONE_TRYLOCK	uma/uma_int.h	/^#define	ZONE_TRYLOCK(/;"	d
+ZONE_UNLOCK	uma/uma_int.h	/^#define	ZONE_UNLOCK(/;"	d
+_BITSET_BITS	uma/_bitset.h	/^#define	_BITSET_BITS	/;"	d
+_SYS_BITSET_H_	uma/bitset.h	/^#define	_SYS_BITSET_H_$/;"	d
+_SYS__BITSET_H_	uma/_bitset.h	/^#define	_SYS__BITSET_H_$/;"	d
+_VM_UMA_H_	uma/uma.h	/^#define _VM_UMA_H_$/;"	d
+__aligned	uma/cdefs.h	/^#define __aligned(/;"	d
+__anonb617769a010a	uma/uma_int.h	/^	union {$/;"	u	struct:uma_slab
+__bitset_mask	uma/bitset.h	/^#define	__bitset_mask(/;"	d
+__bitset_word	uma/bitset.h	/^#define	__bitset_word(/;"	d
+__bitset_words	uma/_bitset.h	/^#define	__bitset_words(/;"	d
+__cache_aligned	uma/cdefs.h	/^#define __cache_aligned /;"	d
+__cache_aligned	uma/uma_int.h	/^	struct mtx		uc_mtx __cache_aligned;$/;"	m	struct:uma_cache	typeref:struct:mtx uc_mtx
+__cache_aligned	uma/uma_int.h	/^	struct mtx	    uk_lock __cache_aligned;	\/* Lock for the keg *\/$/;"	m	struct:uma_keg	typeref:struct:mtx uk_lock
+__cache_aligned	uma/uma_int.h	/^	struct mtx	    uz_lock __cache_aligned; 	\/* Lock for the zone *\/$/;"	m	struct:uma_zone	typeref:struct:mtx uz_lock
+__cache_aligned	uma_core.c	/^static struct mtx uma_boot_pages_mtx __cache_aligned;$/;"	v	typeref:struct:mtx uma_boot_pages_mtx	file:
+__exclusive_cache_line	uma/cdefs.h	/^#define __exclusive_cache_line$/;"	d
+__howmany	uma/_bitset.h	/^#define	__howmany(/;"	d
+__size_t	uma/types.h	/^#define __size_t /;"	d
+_ups_reserved	uma/uma.h	/^	uint64_t	_ups_reserved[5];	\/* Reserved. *\/$/;"	m	struct:uma_percpu_stat	typeref:typename:uint64_t[5]
+_us_size	uma/uma_int.h	/^		unsigned long	_us_size;	\/* Size of allocation *\/$/;"	m	union:uma_slab::__anonb617769a010a	typeref:typename:unsigned long
+_ush_pad	uma/uma.h	/^	uint32_t	_ush_pad;	\/* Pad\/reserved field. *\/$/;"	m	struct:uma_stream_header	typeref:typename:uint32_t
+_uth_reserved1	uma/uma.h	/^	uint64_t	_uth_reserved1[2];	\/* Reserved. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint64_t[2]
+align	uma_core.c	/^	int align;$/;"	m	struct:uma_kctor_args	typeref:typename:int	file:
+align	uma_core.c	/^	int align;$/;"	m	struct:uma_zctor_args	typeref:typename:int	file:
+arg	uma_core.c	/^	void *arg;$/;"	m	struct:uma_zctor_args	typeref:typename:void *	file:
+atomic_add_long	uma/atomic.h	/^static inline void atomic_add_long(volatile u_long *w, u_long m) {$/;"	f	typeref:typename:void
+atomic_clear_long	uma/atomic.h	/^static inline void atomic_clear_long(volatile u_long *w, u_long m) {$/;"	f	typeref:typename:void
+atomic_fetchadd_long	uma/atomic.h	/^static inline long atomic_fetchadd_long(volatile u_long *w, u_long m) {$/;"	f	typeref:typename:long
+atomic_set_acq_long	uma/atomic.h	/^static inline void atomic_set_acq_long(volatile u_long *w, u_long m) {$/;"	f	typeref:typename:void
+atomic_set_long	uma/atomic.h	/^static inline void atomic_set_long(volatile u_long *w, u_long m) {$/;"	f	typeref:typename:void
+atomic_store_rel_long	uma/atomic.h	/^static inline void atomic_store_rel_long(volatile u_long *w, u_long v) {$/;"	f	typeref:typename:void
+booted	uma_core.c	/^static int booted = 0;$/;"	v	typeref:typename:int	file:
+bucket_alloc	uma_core.c	/^bucket_alloc(uma_zone_t zone, void *udata, int flags)$/;"	f	typeref:typename:uma_bucket_t	file:
+bucket_cache_drain	uma_core.c	/^bucket_cache_drain(uma_zone_t zone)$/;"	f	typeref:typename:void	file:
+bucket_drain	uma_core.c	/^bucket_drain(uma_zone_t zone, uma_bucket_t bucket)$/;"	f	typeref:typename:void	file:
+bucket_enable	uma_core.c	/^bucket_enable(void)$/;"	f	typeref:typename:void	file:
+bucket_free	uma_core.c	/^bucket_free(uma_zone_t zone, uma_bucket_t bucket, void *udata)$/;"	f	typeref:typename:void	file:
+bucket_init	uma_core.c	/^bucket_init(void)$/;"	f	typeref:typename:void	file:
+bucket_select	uma_core.c	/^bucket_select(int size)$/;"	f	typeref:typename:int	file:
+bucket_zone_drain	uma_core.c	/^bucket_zone_drain(void)$/;"	f	typeref:typename:void	file:
+bucket_zone_lookup	uma_core.c	/^bucket_zone_lookup(int entries)$/;"	f	typeref:struct:uma_bucket_zone *	file:
+bucket_zones	uma_core.c	/^struct uma_bucket_zone bucket_zones[] = {$/;"	v	typeref:struct:uma_bucket_zone[]
+bucketdisable	uma_core.c	/^static int bucketdisable = 1;$/;"	v	typeref:typename:int	file:
+cache_drain	uma_core.c	/^cache_drain(uma_zone_t zone)$/;"	f	typeref:typename:void	file:
+cache_drain_safe	uma_core.c	/^cache_drain_safe(uma_zone_t zone)$/;"	f	typeref:typename:void	file:
+cache_drain_safe_cpu	uma_core.c	/^cache_drain_safe_cpu(uma_zone_t zone)$/;"	f	typeref:typename:void	file:
+cache_print	uma_core.c	/^cache_print(uma_cache_t cache)$/;"	f	typeref:typename:void	file:
+cache_shrink	uma_core.c	/^cache_shrink(uma_zone_t zone)$/;"	f	typeref:typename:void	file:
+ctor	uma_core.c	/^	uma_ctor ctor;$/;"	m	struct:uma_zctor_args	typeref:typename:uma_ctor	file:
+curcpu	uma/smp.h	/^#define curcpu /;"	d
+dtor	uma_core.c	/^	uma_dtor dtor;$/;"	m	struct:uma_zctor_args	typeref:typename:uma_dtor	file:
+false	uma_core.c	/^#define false /;"	d	file:
+fini	uma_core.c	/^	uma_fini fini;$/;"	m	struct:uma_kctor_args	typeref:typename:uma_fini	file:
+fini	uma_core.c	/^	uma_fini fini;$/;"	m	struct:uma_zctor_args	typeref:typename:uma_fini	file:
+flags	uma_core.c	/^	uint32_t flags;$/;"	m	struct:uma_kctor_args	typeref:typename:uint32_t	file:
+flags	uma_core.c	/^	uint32_t flags;$/;"	m	struct:uma_zctor_args	typeref:typename:uint32_t	file:
+fls	uma/cpufunc.h	/^fls(int mask)$/;"	f	typeref:typename:int
+flsl	uma/cpufunc.h	/^flsl(long mask)$/;"	f	typeref:typename:int
+get_max_cpu	smp.c	/^static void get_max_cpu(void)$/;"	f	typeref:typename:void	file:
+hash_alloc	uma_core.c	/^hash_alloc(struct uma_hash *hash, u_int size)$/;"	f	typeref:typename:int	file:
+hash_expand	uma_core.c	/^hash_expand(struct uma_hash *oldhash, struct uma_hash *newhash)$/;"	f	typeref:typename:int	file:
+hash_free	uma_core.c	/^hash_free(struct uma_hash *hash)$/;"	f	typeref:typename:void	file:
+hash_sfind	uma/uma_int.h	/^hash_sfind(struct uma_hash *hash, uint8_t *data)$/;"	f	typeref:typename:uma_slab_t
+hashzone	uma_core.c	/^static uma_zone_t hashzone;$/;"	v	typeref:typename:uma_zone_t	file:
+import	uma_core.c	/^	uma_import import;$/;"	m	struct:uma_zctor_args	typeref:typename:uma_import	file:
+keg	uma_core.c	/^	uma_keg_t keg;$/;"	m	struct:uma_zctor_args	typeref:typename:uma_keg_t	file:
+keg_alloc_slab	uma_core.c	/^keg_alloc_slab(uma_keg_t keg, uma_zone_t zone, int wait)$/;"	f	typeref:typename:uma_slab_t	file:
+keg_cachespread_init	uma_core.c	/^keg_cachespread_init(uma_keg_t keg)$/;"	f	typeref:typename:void	file:
+keg_ctor	uma_core.c	/^keg_ctor(void *mem, int size, void *udata, int flags)$/;"	f	typeref:typename:int	file:
+keg_drain	uma_core.c	/^keg_drain(uma_keg_t keg)$/;"	f	typeref:typename:void	file:
+keg_dtor	uma_core.c	/^keg_dtor(void *arg, int size, void *udata)$/;"	f	typeref:typename:void	file:
+keg_fetch_slab	uma_core.c	/^keg_fetch_slab(uma_keg_t keg, uma_zone_t zone, int flags)$/;"	f	typeref:typename:uma_slab_t	file:
+keg_free_slab	uma_core.c	/^keg_free_slab(uma_keg_t keg, uma_slab_t slab, int start)$/;"	f	typeref:typename:void	file:
+keg_large_init	uma_core.c	/^keg_large_init(uma_keg_t keg)$/;"	f	typeref:typename:void	file:
+keg_small_init	uma_core.c	/^keg_small_init(uma_keg_t keg)$/;"	f	typeref:typename:void	file:
+keg_timeout	uma_core.c	/^keg_timeout(uma_keg_t keg)$/;"	f	typeref:typename:void	file:
+kegs	uma_core.c	/^static uma_zone_t kegs = &masterzone_k;$/;"	v	typeref:typename:uma_zone_t	file:
+kl_keg	uma/uma_int.h	/^	uma_keg_t		kl_keg;$/;"	m	struct:uma_klink	typeref:typename:uma_keg_t
+masterkeg	uma_core.c	/^static struct uma_keg masterkeg;$/;"	v	typeref:struct:uma_keg	file:
+masterzone_k	uma_core.c	/^static struct uma_zone masterzone_k;$/;"	v	typeref:struct:uma_zone	file:
+masterzone_z	uma_core.c	/^static struct uma_zone masterzone_z;$/;"	v	typeref:struct:uma_zone	file:
+mp_maxid	smp.c	/^static int mp_maxid = 1024;$/;"	v	typeref:typename:int	file:
+mp_maxid	uma/smp.h	/^#define mp_maxid /;"	d
+mtx	uma/mtx.h	/^struct mtx {$/;"	s
+mtx_assert	mtx.c	/^void mtx_assert(struct mtx *m, int ma)$/;"	f	typeref:typename:void
+mtx_file	uma/mtx.h	/^	const char *	mtx_file;$/;"	m	struct:mtx	typeref:typename:const char *
+mtx_init	mtx.c	/^void mtx_init(struct mtx *m, const char *name, const char *type, int opts)$/;"	f	typeref:typename:void
+mtx_line	uma/mtx.h	/^	int		mtx_line;$/;"	m	struct:mtx	typeref:typename:int
+mtx_lock	uma/mtx.h	/^	pthread_mutex_t	mtx_lock;$/;"	m	struct:mtx	typeref:typename:pthread_mutex_t
+mtx_lock	uma/mtx.h	/^#define mtx_lock(/;"	d
+mtx_lock_flags	uma/mtx.h	/^#define mtx_lock_flags(/;"	d
+mtx_lock_impl	mtx.c	/^void mtx_lock_impl(struct mtx *m, const char *file, int line)$/;"	f	typeref:typename:void
+mtx_owner	uma/mtx.h	/^	pthread_t       mtx_owner;$/;"	m	struct:mtx	typeref:typename:pthread_t
+mtx_sleep	mtx.c	/^void mtx_sleep(pthread_cond_t *cond, struct mtx *m)$/;"	f	typeref:typename:void
+mtx_trylock	uma/mtx.h	/^#define mtx_trylock(/;"	d
+mtx_trylock_impl	mtx.c	/^int mtx_trylock_impl(struct mtx *m, const char *file, int line)$/;"	f	typeref:typename:int
+mtx_unlock	mtx.c	/^void mtx_unlock(struct mtx *m)$/;"	f	typeref:typename:void
+name	uma_core.c	/^	const char *name;$/;"	m	struct:uma_zctor_args	typeref:typename:const char *	file:
+noobj_alloc	uma_core.c	/^noobj_alloc(uma_zone_t zone, vm_size_t bytes, uint8_t *flags, int wait)$/;"	f	typeref:typename:void *	file:
+once	smp.c	/^static pthread_once_t once = PTHREAD_ONCE_INIT;$/;"	v	typeref:typename:pthread_once_t	file:
+pad	uma/pcpu.h	/^	char pad[PAGE_SIZE];$/;"	m	struct:pcpu	typeref:typename:char[]
+page_alloc	uma_core.c	/^page_alloc(uma_zone_t zone, vm_size_t bytes, uint8_t *pflag, int wait)$/;"	f	typeref:typename:void *	file:
+page_free	uma_core.c	/^page_free(void *mem, vm_size_t size, uint8_t flags)$/;"	f	typeref:typename:void	file:
+panic	uma/systm.h	/^#define panic /;"	d
+pcpu	uma/pcpu.h	/^struct pcpu {$/;"	s
+release	uma_core.c	/^	uma_release release;$/;"	m	struct:uma_zctor_args	typeref:typename:uma_release	file:
+rw_lock	uma/rwlock.h	/^	pthread_rwlock_t rw_lock;$/;"	m	struct:rwlock	typeref:typename:pthread_rwlock_t
+rwlock	uma/rwlock.h	/^struct rwlock {$/;"	s
+sched_bind	uma/smp.h	/^#define sched_bind /;"	d
+sched_unbind	uma/smp.h	/^#define sched_unbind /;"	d
+size	uma_core.c	/^	size_t size;$/;"	m	struct:uma_kctor_args	typeref:typename:size_t	file:
+size	uma_core.c	/^	size_t size;$/;"	m	struct:uma_zctor_args	typeref:typename:size_t	file:
+slab_alloc_item	uma_core.c	/^slab_alloc_item(uma_keg_t keg, uma_slab_t slab)$/;"	f	typeref:typename:void *	file:
+slab_free_item	uma_core.c	/^slab_free_item(uma_keg_t keg, uma_slab_t slab, void *item)$/;"	f	typeref:typename:void	file:
+slab_print	uma_core.c	/^slab_print(uma_slab_t slab)$/;"	f	typeref:typename:void	file:
+slabzone	uma_core.c	/^static uma_zone_t slabzone;$/;"	v	typeref:typename:uma_zone_t	file:
+startup_alloc	uma_core.c	/^startup_alloc(uma_zone_t zone, vm_size_t bytes, uint8_t *pflag, int wait)$/;"	f	typeref:typename:void *	file:
+sx	uma/sx.h	/^struct sx {$/;"	s
+sx_lock	uma/sx.h	/^	pthread_rwlock_t sx_lock;$/;"	m	struct:sx	typeref:typename:pthread_rwlock_t
+sx_xowner	uma/sx.h	/^	pthread_t sx_xowner;$/;"	m	struct:sx	typeref:typename:pthread_t
+ta_context	uma/task.h	/^	void	*ta_context;$/;"	m	struct:task	typeref:typename:void *
+ta_func	uma/task.h	/^	task_fn_t *ta_func;$/;"	m	struct:task	typeref:typename:task_fn_t *
+ta_pending	uma/task.h	/^	uint16_t ta_pending;$/;"	m	struct:task	typeref:typename:uint16_t
+ta_priority	uma/task.h	/^	u_short	ta_priority;$/;"	m	struct:task	typeref:typename:u_short
+task	uma/task.h	/^struct task {$/;"	s
+task_cond	task.c	/^static pthread_cond_t task_cond = PTHREAD_COND_INITIALIZER;$/;"	v	typeref:typename:pthread_cond_t	file:
+task_fn_t	uma/task.h	/^typedef void task_fn_t(void *context, int pending);$/;"	t	typeref:typename:void ()(void * context,int pending)
+task_lock	task.c	/^static pthread_mutex_t task_lock = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t	file:
+task_routine	task.c	/^static void *task_routine(void *arg)$/;"	f	typeref:typename:void *	file:
+task_thread	task.c	/^static pthread_t task_thread = 0;$/;"	v	typeref:typename:pthread_t	file:
+taskqueue_enqueue	task.c	/^void taskqueue_enqueue(struct task *task)$/;"	f	typeref:typename:void
+true	uma_core.c	/^#define true /;"	d	file:
+ub_bucket	uma/uma_int.h	/^	void	*ub_bucket[];			\/* actual allocation storage *\/$/;"	m	struct:uma_bucket	typeref:typename:void * []
+ub_cnt	uma/uma_int.h	/^	int16_t	ub_cnt;				\/* Count of free items. *\/$/;"	m	struct:uma_bucket	typeref:typename:int16_t
+ub_entries	uma/uma_int.h	/^	int16_t	ub_entries;			\/* Max items. *\/$/;"	m	struct:uma_bucket	typeref:typename:int16_t
+ubz_entries	uma_core.c	/^	int		ubz_entries;	\/* Number of items it can hold. *\/$/;"	m	struct:uma_bucket_zone	typeref:typename:int	file:
+ubz_maxsize	uma_core.c	/^	int		ubz_maxsize;	\/* Maximum allocation size per-item. *\/$/;"	m	struct:uma_bucket_zone	typeref:typename:int	file:
+ubz_name	uma_core.c	/^	char		*ubz_name;$/;"	m	struct:uma_bucket_zone	typeref:typename:char *	file:
+ubz_zone	uma_core.c	/^	uma_zone_t	ubz_zone;$/;"	m	struct:uma_bucket_zone	typeref:typename:uma_zone_t	file:
+uc_allocbucket	uma/uma_int.h	/^	uma_bucket_t	uc_allocbucket;	\/* Bucket to allocate from *\/$/;"	m	struct:uma_cache	typeref:typename:uma_bucket_t
+uc_allocs	uma/uma_int.h	/^	uint64_t	uc_allocs;	\/* Count of allocations *\/$/;"	m	struct:uma_cache	typeref:typename:uint64_t
+uc_freebucket	uma/uma_int.h	/^	uma_bucket_t	uc_freebucket;	\/* Bucket we're freeing to *\/$/;"	m	struct:uma_cache	typeref:typename:uma_bucket_t
+uc_frees	uma/uma_int.h	/^	uint64_t	uc_frees;	\/* Count of frees *\/$/;"	m	struct:uma_cache	typeref:typename:uint64_t
+uh_hashmask	uma/uma_int.h	/^	u_int		uh_hashmask;	\/* Mask used during hashing *\/$/;"	m	struct:uma_hash	typeref:typename:u_int
+uh_hashsize	uma/uma_int.h	/^	u_int		uh_hashsize;	\/* Current size of the hash table *\/$/;"	m	struct:uma_hash	typeref:typename:u_int
+uh_slab_hash	uma/uma_int.h	/^	struct slabhead	*uh_slab_hash;	\/* Hash table for slabs *\/$/;"	m	struct:uma_hash	typeref:struct:slabhead *
+uk_align	uma/uma_int.h	/^	uint32_t	uk_align;	\/* Alignment mask *\/$/;"	m	struct:uma_keg	typeref:typename:uint32_t
+uk_allocf	uma/uma_int.h	/^	uma_alloc	uk_allocf;	\/* Allocation function *\/$/;"	m	struct:uma_keg	typeref:typename:uma_alloc
+uk_cond	uma/uma_int.h	/^	pthread_cond_t	uk_cond;$/;"	m	struct:uma_keg	typeref:typename:pthread_cond_t
+uk_fini	uma/uma_int.h	/^	uma_fini	uk_fini;	\/* Keg's fini routine *\/$/;"	m	struct:uma_keg	typeref:typename:uma_fini
+uk_flags	uma/uma_int.h	/^	uint32_t	uk_flags;	\/* Internal flags *\/$/;"	m	struct:uma_keg	typeref:typename:uint32_t
+uk_free	uma/uma_int.h	/^	uint32_t	uk_free;	\/* Count of items free in slabs *\/$/;"	m	struct:uma_keg	typeref:typename:uint32_t
+uk_freef	uma/uma_int.h	/^	uma_free	uk_freef;	\/* Free routine *\/$/;"	m	struct:uma_keg	typeref:typename:uma_free
+uk_hash	uma/uma_int.h	/^	struct uma_hash	uk_hash;$/;"	m	struct:uma_keg	typeref:struct:uma_hash
+uk_init	uma/uma_int.h	/^	uma_init	uk_init;	\/* Keg's init routine *\/$/;"	m	struct:uma_keg	typeref:typename:uma_init
+uk_ipers	uma/uma_int.h	/^	uint16_t	uk_ipers;	\/* Items per slab *\/$/;"	m	struct:uma_keg	typeref:typename:uint16_t
+uk_kva	uma/uma_int.h	/^	vm_offset_t	uk_kva;		\/* Zone base KVA *\/$/;"	m	struct:uma_keg	typeref:typename:vm_offset_t
+uk_maxpages	uma/uma_int.h	/^	uint32_t	uk_maxpages;	\/* Maximum number of pages to alloc *\/$/;"	m	struct:uma_keg	typeref:typename:uint32_t
+uk_name	uma/uma_int.h	/^	const char	*uk_name;		\/* Name of creating zone. *\/$/;"	m	struct:uma_keg	typeref:typename:const char *
+uk_offset	uma/uma_int.h	/^	u_long		uk_offset;	\/* Next free offset from base KVA *\/$/;"	m	struct:uma_keg	typeref:typename:u_long
+uk_pages	uma/uma_int.h	/^	uint32_t	uk_pages;	\/* Total page count *\/$/;"	m	struct:uma_keg	typeref:typename:uint32_t
+uk_pgoff	uma/uma_int.h	/^	uint32_t	uk_pgoff;	\/* Offset to uma_slab struct *\/$/;"	m	struct:uma_keg	typeref:typename:uint32_t
+uk_ppera	uma/uma_int.h	/^	uint16_t	uk_ppera;	\/* pages per allocation from backend *\/$/;"	m	struct:uma_keg	typeref:typename:uint16_t
+uk_reserve	uma/uma_int.h	/^	uint32_t	uk_reserve;	\/* Number of reserved items. *\/$/;"	m	struct:uma_keg	typeref:typename:uint32_t
+uk_rsize	uma/uma_int.h	/^	uint32_t	uk_rsize;	\/* Real size of each item *\/$/;"	m	struct:uma_keg	typeref:typename:uint32_t
+uk_size	uma/uma_int.h	/^	uint32_t	uk_size;	\/* Requested size of each item *\/$/;"	m	struct:uma_keg	typeref:typename:uint32_t
+uk_slabzone	uma/uma_int.h	/^	uma_zone_t	uk_slabzone;	\/* Slab zone backing us, if OFFPAGE *\/$/;"	m	struct:uma_keg	typeref:typename:uma_zone_t
+uma_align_cache	uma_core.c	/^int uma_align_cache = 64 - 1;$/;"	v	typeref:typename:int
+uma_alloc	uma/uma.h	/^typedef void *(*uma_alloc)(uma_zone_t zone, vm_size_t size, uint8_t *pflag,$/;"	t	typeref:typename:void * (*)(uma_zone_t zone,vm_size_t size,uint8_t * pflag,int wait)
+uma_bucket	uma/uma_int.h	/^struct uma_bucket {$/;"	s
+uma_bucket_t	uma/uma_int.h	/^typedef struct uma_bucket * uma_bucket_t;$/;"	t	typeref:struct:uma_bucket *
+uma_bucket_zone	uma_core.c	/^struct uma_bucket_zone {$/;"	s	file:
+uma_cache	uma/uma_int.h	/^struct uma_cache {$/;"	s
+uma_cache_t	uma/uma_int.h	/^typedef struct uma_cache * uma_cache_t;$/;"	t	typeref:struct:uma_cache *
+uma_ctor	uma/uma.h	/^typedef int (*uma_ctor)(void *mem, int size, void *arg, int flags);$/;"	t	typeref:typename:int (*)(void * mem,int size,void * arg,int flags)
+uma_default_startup	uma_core.c	/^uma_default_startup(void)$/;"	f	typeref:typename:void
+uma_drain_cond	uma_core.c	/^static pthread_cond_t uma_drain_cond = PTHREAD_COND_INITIALIZER;$/;"	v	typeref:typename:pthread_cond_t	file:
+uma_drain_lock	uma_core.c	/^static struct sx uma_drain_lock;$/;"	v	typeref:struct:sx	file:
+uma_drain_mtx	uma_core.c	/^static pthread_mutex_t uma_drain_mtx = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t	file:
+uma_dtor	uma/uma.h	/^typedef void (*uma_dtor)(void *mem, int size, void *arg);$/;"	t	typeref:typename:void (*)(void * mem,int size,void * arg)
+uma_fini	uma/uma.h	/^typedef void (*uma_fini)(void *mem, int size);$/;"	t	typeref:typename:void (*)(void * mem,int size)
+uma_free	uma/uma.h	/^typedef void (*uma_free)(void *item, vm_size_t size, uint8_t pflag);$/;"	t	typeref:typename:void (*)(void * item,vm_size_t size,uint8_t pflag)
+uma_hash	uma/uma_int.h	/^struct uma_hash {$/;"	s
+uma_import	uma/uma.h	/^typedef int (*uma_import)(void *arg, void **store, int count, int flags);$/;"	t	typeref:typename:int (*)(void * arg,void ** store,int count,int flags)
+uma_init	uma/uma.h	/^typedef int (*uma_init)(void *mem, int size, int flags);$/;"	t	typeref:typename:int (*)(void * mem,int size,int flags)
+uma_kcreate	uma_core.c	/^uma_kcreate(uma_zone_t zone, size_t size, uma_init uminit, uma_fini fini,$/;"	f	typeref:typename:uma_keg_t	file:
+uma_kctor_args	uma_core.c	/^struct uma_kctor_args {$/;"	s	file:
+uma_keg	uma/uma_int.h	/^struct uma_keg {$/;"	s
+uma_keg_t	uma/uma_int.h	/^typedef struct uma_keg	* uma_keg_t;$/;"	t	typeref:struct:uma_keg *
+uma_klink	uma/uma_int.h	/^struct uma_klink {$/;"	s
+uma_klink_t	uma/uma_int.h	/^typedef struct uma_klink *uma_klink_t;$/;"	t	typeref:struct:uma_klink *
+uma_large_ppera	uma_core.c	/^int uma_large_ppera = SIZE_2MB \/ PAGE_SIZE;$/;"	v	typeref:typename:int
+uma_maxaction_t	uma/uma.h	/^typedef void (*uma_maxaction_t)(uma_zone_t, int);$/;"	t	typeref:typename:void (*)(uma_zone_t,int)
+uma_mmap	uma_core.c	/^static inline void *uma_mmap(int flags, vm_size_t bytes)$/;"	f	typeref:typename:void *	file:
+uma_mp_bindcpu	smp.c	/^__thread int uma_mp_bindcpu = -1;$/;"	v	typeref:typename:__thread int
+uma_mp_maxid	smp.c	/^int uma_mp_maxid()$/;"	f	typeref:typename:int
+uma_normal_ppera	uma_core.c	/^int uma_normal_ppera = SIZE_64KB \/ PAGE_SIZE;$/;"	v	typeref:typename:int
+uma_panic	systm.c	/^void uma_panic(const char *fmt, ...)$/;"	f	typeref:typename:void
+uma_percpu_stat	uma/uma.h	/^struct uma_percpu_stat {$/;"	s
+uma_prealloc	uma_core.c	/^uma_prealloc(uma_zone_t zone, int items)$/;"	f	typeref:typename:void
+uma_print_keg	uma_core.c	/^uma_print_keg(uma_keg_t keg)$/;"	f	typeref:typename:void	file:
+uma_print_stats	uma_core.c	/^uma_print_stats(void)$/;"	f	typeref:typename:void
+uma_print_zone	uma_core.c	/^uma_print_zone(uma_zone_t zone)$/;"	f	typeref:typename:void
+uma_ratecheck	time.c	/^uma_ratecheck(struct timeval *lasttime, const struct timeval *mininterval)$/;"	f	typeref:typename:int
+uma_reclaim	uma_core.c	/^uma_reclaim(void)$/;"	f	typeref:typename:void
+uma_reclaim_locked	uma_core.c	/^uma_reclaim_locked(bool kmem_danger)$/;"	f	typeref:typename:void	file:
+uma_reclaim_needed	uma_core.c	/^static int uma_reclaim_needed;$/;"	v	typeref:typename:int	file:
+uma_reclaim_wakeup	uma_core.c	/^uma_reclaim_wakeup(void)$/;"	f	typeref:typename:void
+uma_reclaim_worker	uma_core.c	/^uma_reclaim_worker(void *arg)$/;"	f	typeref:typename:void
+uma_release	uma/uma.h	/^typedef void (*uma_release)(void *arg, void **store, int count);$/;"	t	typeref:typename:void (*)(void * arg,void ** store,int count)
+uma_rw_destroy	rwlock.c	/^void uma_rw_destroy(struct rwlock *rwl)$/;"	f	typeref:typename:void
+uma_rw_init	rwlock.c	/^void uma_rw_init(struct rwlock *rwl, const char *name)$/;"	f	typeref:typename:void
+uma_rw_rlock	rwlock.c	/^void uma_rw_rlock(struct rwlock *rwl)$/;"	f	typeref:typename:void
+uma_rw_runlock	rwlock.c	/^void uma_rw_runlock(struct rwlock *rwl)$/;"	f	typeref:typename:void
+uma_rw_wlock	rwlock.c	/^void uma_rw_wlock(struct rwlock *rwl)$/;"	f	typeref:typename:void
+uma_rw_wunlock	rwlock.c	/^void uma_rw_wunlock(struct rwlock *rwl)$/;"	f	typeref:typename:void
+uma_rwlock	uma_core.c	/^static struct rwlock __cache_aligned uma_rwlock;$/;"	v	typeref:struct:rwlock __cache_aligned	file:
+uma_sched_bind	smp.c	/^void uma_sched_bind(int cpu)$/;"	f	typeref:typename:void
+uma_sched_unbind	smp.c	/^void uma_sched_unbind(void)$/;"	f	typeref:typename:void
+uma_set_align	uma_core.c	/^uma_set_align(int align)$/;"	f	typeref:typename:void
+uma_shutdown	uma_core.c	/^uma_shutdown(void)$/;"	f	typeref:typename:void
+uma_slab	uma/uma_int.h	/^struct uma_slab {$/;"	s
+uma_slab_t	uma/uma_int.h	/^typedef struct uma_slab * uma_slab_t;$/;"	t	typeref:struct:uma_slab *
+uma_slaballoc	uma/uma_int.h	/^typedef uma_slab_t (*uma_slaballoc)(uma_zone_t, uma_keg_t, int);$/;"	t	typeref:typename:uma_slab_t (*)(uma_zone_t,uma_keg_t,int)
+uma_startup	uma_core.c	/^uma_startup(void *bootmem, int boot_pages)$/;"	f	typeref:typename:void
+uma_startup2	uma_core.c	/^uma_startup2(void)$/;"	f	typeref:typename:void	file:
+uma_startup3	uma_core.c	/^uma_startup3(void)$/;"	f	typeref:typename:void	file:
+uma_stream_header	uma/uma.h	/^struct uma_stream_header {$/;"	s
+uma_sx_assert	sx.c	/^void uma_sx_assert(struct sx *sx, int flags)$/;"	f	typeref:typename:void
+uma_sx_destroy	sx.c	/^void uma_sx_destroy(struct sx *sx)$/;"	f	typeref:typename:void
+uma_sx_init	sx.c	/^void uma_sx_init(struct sx *sx, const char *name)$/;"	f	typeref:typename:void
+uma_sx_slock	sx.c	/^void uma_sx_slock(struct sx *sx)$/;"	f	typeref:typename:void
+uma_sx_sunlock	sx.c	/^void uma_sx_sunlock(struct sx *sx)$/;"	f	typeref:typename:void
+uma_sx_xlock	sx.c	/^void uma_sx_xlock(struct sx *sx)$/;"	f	typeref:typename:void
+uma_sx_xunlock	sx.c	/^void uma_sx_xunlock(struct sx *sx)$/;"	f	typeref:typename:void
+uma_timeout	uma_core.c	/^uma_timeout(void *unused)$/;"	f	typeref:typename:void *	file:
+uma_timeout_td	uma_core.c	/^static pthread_t uma_timeout_td;$/;"	v	typeref:typename:pthread_t	file:
+uma_type_header	uma/uma.h	/^struct uma_type_header {$/;"	s
+uma_zalloc	uma/uma.h	/^uma_zalloc(uma_zone_t zone, int flags)$/;"	f	typeref:typename:void *
+uma_zalloc_arg	uma_core.c	/^uma_zalloc_arg(uma_zone_t zone, void *udata, int flags)$/;"	f	typeref:typename:void *
+uma_zcache_create	uma_core.c	/^uma_zcache_create(char *name, int size, uma_ctor ctor, uma_dtor dtor,$/;"	f	typeref:typename:uma_zone_t
+uma_zcreate	uma_core.c	/^uma_zcreate(const char *name, size_t size, uma_ctor ctor, uma_dtor dtor,$/;"	f	typeref:typename:uma_zone_t
+uma_zctor_args	uma_core.c	/^struct uma_zctor_args {$/;"	s	file:
+uma_zdestroy	uma_core.c	/^uma_zdestroy(uma_zone_t zone)$/;"	f	typeref:typename:void
+uma_zero_item	uma_core.c	/^uma_zero_item(void *item, uma_zone_t zone)$/;"	f	typeref:typename:void	file:
+uma_zfree	uma/uma.h	/^uma_zfree(uma_zone_t zone, void *item)$/;"	f	typeref:typename:void
+uma_zfree_arg	uma_core.c	/^uma_zfree_arg(uma_zone_t zone, void *item, void *udata)$/;"	f	typeref:typename:void
+uma_zone	uma/uma_int.h	/^struct uma_zone {$/;"	s
+uma_zone_exhausted	uma_core.c	/^uma_zone_exhausted(uma_zone_t zone)$/;"	f	typeref:typename:int
+uma_zone_exhausted_nolock	uma_core.c	/^uma_zone_exhausted_nolock(uma_zone_t zone)$/;"	f	typeref:typename:int
+uma_zone_get_cur	uma_core.c	/^uma_zone_get_cur(uma_zone_t zone)$/;"	f	typeref:typename:int
+uma_zone_get_max	uma_core.c	/^uma_zone_get_max(uma_zone_t zone)$/;"	f	typeref:typename:int
+uma_zone_reserve	uma_core.c	/^uma_zone_reserve(uma_zone_t zone, int items)$/;"	f	typeref:typename:void
+uma_zone_reserve_kva	uma_core.c	/^uma_zone_reserve_kva(uma_zone_t zone, int count)$/;"	f	typeref:typename:int
+uma_zone_set_allocf	uma_core.c	/^uma_zone_set_allocf(uma_zone_t zone, uma_alloc allocf)$/;"	f	typeref:typename:void
+uma_zone_set_fini	uma_core.c	/^uma_zone_set_fini(uma_zone_t zone, uma_fini fini)$/;"	f	typeref:typename:void
+uma_zone_set_freef	uma_core.c	/^uma_zone_set_freef(uma_zone_t zone, uma_free freef)$/;"	f	typeref:typename:void
+uma_zone_set_init	uma_core.c	/^uma_zone_set_init(uma_zone_t zone, uma_init uminit)$/;"	f	typeref:typename:void
+uma_zone_set_max	uma_core.c	/^uma_zone_set_max(uma_zone_t zone, int nitems)$/;"	f	typeref:typename:int
+uma_zone_set_maxaction	uma_core.c	/^uma_zone_set_maxaction(uma_zone_t zone, uma_maxaction_t maxaction)$/;"	f	typeref:typename:void
+uma_zone_set_warning	uma_core.c	/^uma_zone_set_warning(uma_zone_t zone, const char *warning)$/;"	f	typeref:typename:void
+uma_zone_set_zfini	uma_core.c	/^uma_zone_set_zfini(uma_zone_t zone, uma_fini zfini)$/;"	f	typeref:typename:void
+uma_zone_set_zinit	uma_core.c	/^uma_zone_set_zinit(uma_zone_t zone, uma_init zinit)$/;"	f	typeref:typename:void
+uma_zone_t	uma/uma.h	/^typedef struct uma_zone * uma_zone_t;$/;"	t	typeref:struct:uma_zone *
+uma_zsecond_add	uma_core.c	/^uma_zsecond_add(uma_zone_t zone, uma_zone_t master)$/;"	f	typeref:typename:int
+uma_zsecond_create	uma_core.c	/^uma_zsecond_create(char *name, uma_ctor ctor, uma_dtor dtor,$/;"	f	typeref:typename:uma_zone_t
+uma_zwait	uma_core.c	/^uma_zwait(uma_zone_t zone)$/;"	f	typeref:typename:void
+uminit	uma_core.c	/^	uma_init uminit;$/;"	m	struct:uma_kctor_args	typeref:typename:uma_init	file:
+uminit	uma_core.c	/^	uma_init uminit;$/;"	m	struct:uma_zctor_args	typeref:typename:uma_init	file:
+ups_allocs	uma/uma.h	/^	uint64_t	ups_allocs;	\/* Cache: number of allocations. *\/$/;"	m	struct:uma_percpu_stat	typeref:typename:uint64_t
+ups_cache_free	uma/uma.h	/^	uint64_t	ups_cache_free;	\/* Cache: free items in cache. *\/$/;"	m	struct:uma_percpu_stat	typeref:typename:uint64_t
+ups_frees	uma/uma.h	/^	uint64_t	ups_frees;	\/* Cache: number of frees. *\/$/;"	m	struct:uma_percpu_stat	typeref:typename:uint64_t
+us_data	uma/uma_int.h	/^	uint8_t		*us_data;		\/* First item *\/$/;"	m	struct:uma_slab	typeref:typename:uint8_t *
+us_debugfree	uma/uma_int.h	/^	struct slabbits	us_debugfree;		\/* Debug bitmask. *\/$/;"	m	struct:uma_slab	typeref:struct:slabbits
+us_flags	uma/uma_int.h	/^	uint8_t		us_flags;		\/* Page flags see uma.h *\/$/;"	m	struct:uma_slab	typeref:typename:uint8_t
+us_free	uma/uma_int.h	/^	struct slabbits	us_free;		\/* Free bitmask. *\/$/;"	m	struct:uma_slab	typeref:struct:slabbits
+us_freecount	uma/uma_int.h	/^	uint16_t	us_freecount;		\/* How many are free? *\/$/;"	m	struct:uma_slab	typeref:typename:uint16_t
+us_keg	uma/uma_int.h	/^	uma_keg_t	us_keg;			\/* Keg we live in *\/$/;"	m	struct:uma_slab	typeref:typename:uma_keg_t
+us_link	uma/uma_int.h	/^#define	us_link	/;"	d
+us_pad	uma/uma_int.h	/^	uint8_t		us_pad;			\/* Pad to 32bits, unused. *\/$/;"	m	struct:uma_slab	typeref:typename:uint8_t
+us_size	uma/uma_int.h	/^#define	us_size	/;"	d
+us_type	uma/uma_int.h	/^	} us_type;$/;"	m	struct:uma_slab	typeref:union:uma_slab::__anonb617769a010a
+ush_count	uma/uma.h	/^	uint32_t	ush_count;	\/* Number of records. *\/$/;"	m	struct:uma_stream_header	typeref:typename:uint32_t
+ush_maxcpus	uma/uma.h	/^	uint32_t	ush_maxcpus;	\/* Value of MAXCPU for stream. *\/$/;"	m	struct:uma_stream_header	typeref:typename:uint32_t
+ush_version	uma/uma.h	/^	uint32_t	ush_version;	\/* Stream format version. *\/$/;"	m	struct:uma_stream_header	typeref:typename:uint32_t
+uth_align	uma/uma.h	/^	uint32_t	uth_align;	\/* Keg: alignment. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uth_allocs	uma/uma.h	/^	uint64_t	uth_allocs;	\/* Zone: number of allocations. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint64_t
+uth_bucketsize	uma/uma.h	/^	uint32_t	uth_bucketsize;	\/* Zone: desired bucket size. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uth_fails	uma/uma.h	/^	uint64_t	uth_fails;	\/* Zone: number of alloc failures. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint64_t
+uth_frees	uma/uma.h	/^	uint64_t	uth_frees;	\/* Zone: number of frees. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint64_t
+uth_keg_free	uma/uma.h	/^	uint32_t	uth_keg_free;	\/* Keg: items free. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uth_limit	uma/uma.h	/^	uint32_t	uth_limit;	\/* Keg: max items to allocate. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uth_maxpages	uma/uma.h	/^	uint32_t	uth_maxpages;	\/* Keg: maximum number of pages. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uth_name	uma/uma.h	/^	char		uth_name[UTH_MAX_NAME];$/;"	m	struct:uma_type_header	typeref:typename:char[]
+uth_pages	uma/uma.h	/^	uint32_t	uth_pages;	\/* Keg: pages allocated. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uth_rsize	uma/uma.h	/^	uint32_t	uth_rsize;	\/* Keg: real size of item. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uth_size	uma/uma.h	/^	uint32_t	uth_size;	\/* Keg: requested size of item. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uth_sleeps	uma/uma.h	/^	uint64_t	uth_sleeps;	\/* Zone: number of alloc sleeps. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint64_t
+uth_zone_flags	uma/uma.h	/^	uint32_t	uth_zone_flags;	\/* Zone: flags. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uth_zone_free	uma/uma.h	/^	uint32_t	uth_zone_free;	\/* Zone: items free. *\/$/;"	m	struct:uma_type_header	typeref:typename:uint32_t
+uz_arg	uma/uma_int.h	/^	void		*uz_arg;	\/* Import\/release argument. *\/$/;"	m	struct:uma_zone	typeref:typename:void *
+uz_cond	uma/uma_int.h	/^	pthread_cond_t	uz_cond;$/;"	m	struct:uma_zone	typeref:typename:pthread_cond_t
+uz_count	uma/uma_int.h	/^	uint16_t	uz_count;	\/* Amount of items in full bucket *\/$/;"	m	struct:uma_zone	typeref:typename:uint16_t
+uz_count_min	uma/uma_int.h	/^	uint16_t	uz_count_min;	\/* Minimal amount of items there *\/$/;"	m	struct:uma_zone	typeref:typename:uint16_t
+uz_cpu	uma/uma_int.h	/^	struct uma_cache	uz_cpu[1]; \/* Per cpu caches *\/$/;"	m	struct:uma_zone	typeref:struct:uma_cache[1]
+uz_ctor	uma/uma_int.h	/^	uma_ctor	uz_ctor;	\/* Constructor for each allocation *\/$/;"	m	struct:uma_zone	typeref:typename:uma_ctor
+uz_dtor	uma/uma_int.h	/^	uma_dtor	uz_dtor;	\/* Destructor *\/$/;"	m	struct:uma_zone	typeref:typename:uma_dtor
+uz_fails	uma/uma_int.h	/^	volatile u_long	uz_fails;	\/* Total number of alloc failures *\/$/;"	m	struct:uma_zone	typeref:typename:volatile u_long
+uz_fini	uma/uma_int.h	/^	uma_fini	uz_fini;	\/* Finalizer for each item. *\/$/;"	m	struct:uma_zone	typeref:typename:uma_fini
+uz_flags	uma/uma_int.h	/^	uint32_t	uz_flags;	\/* Flags inherited from kegs *\/$/;"	m	struct:uma_zone	typeref:typename:uint32_t
+uz_frees	uma/uma_int.h	/^	volatile u_long	uz_frees;	\/* Total number of frees *\/$/;"	m	struct:uma_zone	typeref:typename:volatile u_long
+uz_import	uma/uma_int.h	/^	uma_import	uz_import;	\/* Import new memory to cache. *\/$/;"	m	struct:uma_zone	typeref:typename:uma_import
+uz_init	uma/uma_int.h	/^	uma_init	uz_init;	\/* Initializer for each item *\/$/;"	m	struct:uma_zone	typeref:typename:uma_init
+uz_klink	uma/uma_int.h	/^	struct uma_klink	uz_klink;	\/* klink for first keg. *\/$/;"	m	struct:uma_zone	typeref:struct:uma_klink
+uz_lockptr	uma/uma_int.h	/^	struct mtx 		*uz_lockptr;$/;"	m	struct:uma_zone	typeref:struct:mtx *
+uz_maxaction	uma/uma_int.h	/^	struct task	uz_maxaction;	\/* Task to run when at limit *\/$/;"	m	struct:uma_zone	typeref:struct:task
+uz_name	uma/uma_int.h	/^	const char		*uz_name;	\/* Text name of the zone *\/$/;"	m	struct:uma_zone	typeref:typename:const char *
+uz_ratecheck	uma/uma_int.h	/^	struct timeval	uz_ratecheck;	\/* Warnings rate-limiting *\/$/;"	m	struct:uma_zone	typeref:struct:timeval
+uz_release	uma/uma_int.h	/^	uma_release	uz_release;	\/* Release memory from cache. *\/$/;"	m	struct:uma_zone	typeref:typename:uma_release
+uz_size	uma/uma_int.h	/^	uint32_t	uz_size;	\/* Size inherited from kegs *\/$/;"	m	struct:uma_zone	typeref:typename:uint32_t
+uz_slab	uma/uma_int.h	/^	uma_slaballoc	uz_slab;	\/* Allocate a slab from the backend. *\/$/;"	m	struct:uma_zone	typeref:typename:uma_slaballoc
+uz_sleeps	uma/uma_int.h	/^	uint64_t	uz_sleeps;	\/* Total number of alloc sleeps *\/$/;"	m	struct:uma_zone	typeref:typename:uint64_t
+uz_warning	uma/uma_int.h	/^	const char	*uz_warning;	\/* Warning to print on failure *\/$/;"	m	struct:uma_zone	typeref:typename:const char *
+vm_offset_t	uma/types.h	/^typedef uintptr_t vm_offset_t;$/;"	t	typeref:typename:uintptr_t
+vm_size_t	uma/types.h	/^typedef uintptr_t vm_size_t;$/;"	t	typeref:typename:uintptr_t
+vsetslab	uma/uma_int.h	/^vsetslab(vm_offset_t va, uma_slab_t slab)$/;"	f	typeref:typename:void
+zero_init	uma_core.c	/^zero_init(void *mem, int size, int flags)$/;"	f	typeref:typename:int	file:
+zfreeskip	uma_core.c	/^enum zfreeskip { SKIP_NONE = 0, SKIP_DTOR, SKIP_FINI };$/;"	g	file:
+zone	uma_core.c	/^	uma_zone_t zone;$/;"	m	struct:uma_kctor_args	typeref:typename:uma_zone_t	file:
+zone_alloc_bucket	uma_core.c	/^zone_alloc_bucket(uma_zone_t zone, void *udata, int flags)$/;"	f	typeref:typename:uma_bucket_t	file:
+zone_alloc_item	uma_core.c	/^zone_alloc_item(uma_zone_t zone, void *udata, int flags)$/;"	f	typeref:typename:void *	file:
+zone_ctor	uma_core.c	/^zone_ctor(void *mem, int size, void *udata, int flags)$/;"	f	typeref:typename:int	file:
+zone_drain	uma_core.c	/^zone_drain(uma_zone_t zone)$/;"	f	typeref:typename:void
+zone_drain_wait	uma_core.c	/^zone_drain_wait(uma_zone_t zone, int waitok)$/;"	f	typeref:typename:void	file:
+zone_dtor	uma_core.c	/^zone_dtor(void *arg, int size, void *udata)$/;"	f	typeref:typename:void	file:
+zone_fetch_slab	uma_core.c	/^zone_fetch_slab(uma_zone_t zone, uma_keg_t keg, int flags)$/;"	f	typeref:typename:uma_slab_t	file:
+zone_fetch_slab_multi	uma_core.c	/^zone_fetch_slab_multi(uma_zone_t zone, uma_keg_t last, int rflags)$/;"	f	typeref:typename:uma_slab_t	file:
+zone_first_keg	uma/uma_int.h	/^zone_first_keg(uma_zone_t zone)$/;"	f	typeref:typename:uma_keg_t
+zone_foreach	uma_core.c	/^zone_foreach(void (*zfunc)(uma_zone_t))$/;"	f	typeref:typename:void	file:
+zone_foreach_keg	uma_core.c	/^zone_foreach_keg(uma_zone_t zone, void (*kegfn)(uma_keg_t))$/;"	f	typeref:typename:void	file:
+zone_free_item	uma_core.c	/^zone_free_item(uma_zone_t zone, void *item, void *udata, enum zfreeskip skip)$/;"	f	typeref:typename:void	file:
+zone_import	uma_core.c	/^zone_import(uma_zone_t zone, void **bucket, int max, int flags)$/;"	f	typeref:typename:int	file:
+zone_lock_pair	uma_core.c	/^zone_lock_pair(uma_zone_t a, uma_zone_t b)$/;"	f	typeref:typename:void	file:
+zone_log_warning	uma_core.c	/^zone_log_warning(uma_zone_t zone)$/;"	f	typeref:typename:void	file:
+zone_maxaction	uma_core.c	/^zone_maxaction(uma_zone_t zone)$/;"	f	typeref:typename:void	file:
+zone_release	uma_core.c	/^zone_release(uma_zone_t zone, void **bucket, int cnt)$/;"	f	typeref:typename:void	file:
+zone_timeout	uma_core.c	/^zone_timeout(uma_zone_t zone)$/;"	f	typeref:typename:void	file:
+zone_unlock_pair	uma_core.c	/^zone_unlock_pair(uma_zone_t a, uma_zone_t b)$/;"	f	typeref:typename:void	file:
+zone_warnings	uma_core.c	/^static int zone_warnings = 1;$/;"	v	typeref:typename:int	file:
+zones	uma_core.c	/^static uma_zone_t zones = &masterzone_z;$/;"	v	typeref:typename:uma_zone_t	file:
+zpcpu_get	uma/pcpu.h	/^zpcpu_get(void *base)$/;"	f	typeref:typename:void *
+zpcpu_get_cpu	uma/pcpu.h	/^zpcpu_get_cpu(void *base, int cpu)$/;"	f	typeref:typename:void *
